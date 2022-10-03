@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usgoda Nimesha</h1>
 <h3 align="center">I am an Artificial Intelligence software developer.</h3>
 
-- 🔭 I’m currently working on [Ai Frameworks](https://github.com/Usgoda-Nimesha/Ai-Frameworks)
+- 🔭 I’m currently working on [Tensorflow & Pytorch project](https://github.com/Usgoda-Nimesha/Ai-Frameworks)
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, numpy, Matlab, javascript**
 
