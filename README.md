@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, numpy, Matlab, javascript**
 
-- 📫 How to reach me **usgodanimesha@gmail.com**
+- 📫 How to reach me **ugvnimesha@gmail.com**
 
 
 <p align="left">
